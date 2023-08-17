@@ -1,4 +1,4 @@
-# Twitter_Sentiment_Analysis
+# Twitter Sentiment Analysis
 ## Problem statement
 
 A Twitter sentiment analysis identifies negative, positive, or neutral emotions within the text of a tweet. It is a text analysis using natural language processing (NLP) and machine learning. Tweets are often useful in generating a vast amount of sentiment data upon analysis. These data are useful in understanding the opinion of people on social media for a variety of topics. This Project shows the use of **LSTM** and **Bert model** to find sentiment of tweet data and predicts accuracy of Bert model using ratings 1,2,3,4 or 5.
