@@ -1,3 +1,5 @@
+![fig03](https://github.com/dnchinmayee/Twitter_Sentiment_Analysis/assets/51435468/232a8110-ea8b-41ff-99ac-f51aea2424ce)
+
 # Twitter Sentiment Analysis
 ## Problem statement
 
